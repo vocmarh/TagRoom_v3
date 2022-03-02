@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"\\nut\home\s.hramcov\Desktop\RevitAPITraining\TagRoom_v3.dll"</Assembly>
+		<AddInId>C59B6DAA-C459-4858-860A-54785410D6D9</AddInId>
+		<FullClassName>TagRoom_v3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор элементов</Text>
+	</AddIn>
+</RevitAddIns>
